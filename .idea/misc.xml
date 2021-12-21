@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-ldpi/ic_white_color_back_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-v24/ic_black_color_back_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-v24/shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-v24/white_border_shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxhdpi/nav_header_main_background.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxxhdpi/ic_stat_ic_notification.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxxhdpi/ic_vector_color_accent_done_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxxhdpi/ic_vector_delete_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxxhdpi/ic_vector_white_done_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable-xxxhdpi/shape_dialog_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable/ic_action_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable/ic_vector_add_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/drawable/shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_base.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_card_details.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_create_board.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_main_drawer.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_members.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_sign_in.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_sign_up.xml" value="0.12588652482269502" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/activity_task_list.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/app_bar_main.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/dialog_list.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/dialog_progress.xml" value="0.12588652482269502" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/dialog_search_member.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_board.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_card.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_card_selected_member.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_label_color.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_member.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/item_task.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/layout/nav_header_main.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/menu/menu_add_member.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/menu/menu_delete_card.xml" value="0.1" />
+        <entry key="..\:/Users/jites/StudioProjects/ProjectManager/app/src/main/res/menu/menu_members.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

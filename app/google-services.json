@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250363461569",
+    "project_id": "pact-733c8",
+    "storage_bucket": "pact-733c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250363461569:android:ed497e56dad4028b5df940",
+        "android_client_info": {
+          "package_name": "com.androidproject.projectmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250363461569-omgm6695ndlatmg6f8011fsk7gc4ala0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTyNjT6WfB3_zoPCmkmwYNmQh3mWLS1rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250363461569-omgm6695ndlatmg6f8011fsk7gc4ala0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
